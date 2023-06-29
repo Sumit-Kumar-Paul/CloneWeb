@@ -1,2 +1,2 @@
 # CloneWeb
-I try to clone a asic webpage
+I try to clone a basic webpage
